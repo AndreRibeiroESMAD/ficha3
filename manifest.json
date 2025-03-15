@@ -4,17 +4,17 @@
     "start_url": "https://andreribeiroesmad.github.io/ficha3/",
     "icons": [
       {
-        "src": "/icons/png1.png",
+        "src": "icons/png1.png",
         "sizes": "36x36",
         "type": "image/png"
       },
       {
-        "src": "/icons/png2.png",
+        "src": "icons/png2.png",
         "sizes": "48x48",
         "type": "image/png"
       },
       {
-        "src": "/icons/png3.png",
+        "src": "icons/png3.png",
         "sizes": "60x60",
         "type": "image/png"
       }
